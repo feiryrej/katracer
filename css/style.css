@@ -98,6 +98,12 @@ body {
   display: flex;
   gap: 10px;
 }
+#music-btn img,
+#theme-btn img {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+}
 #music-btn,
 #theme-btn {
   background: var(--pink-pale);
@@ -110,6 +116,9 @@ body {
   transition:
     transform 0.2s,
     background 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 #music-btn:hover,
 #theme-btn:hover {
