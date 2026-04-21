@@ -16,8 +16,7 @@ Trace Hiragana, Katakana & JLPT Vocabulary, One Stroke at a Time
 ---
 
 ## Demo
-
-
+https://github.com/user-attachments/assets/a2c00212-b091-45d3-970a-7b8706129fe2
 
 ---
 
@@ -78,17 +77,24 @@ Mastering the Japanese writing system requires repeated, deliberate practice of 
 
 ### Gallery
 #### Light Mode
+- Hiragana
 <img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/73957935-e84a-40d7-a921-1e51f59754f5" />
+
+- Katakana
 <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/d0de5e32-cb67-4fa1-8643-6a626d313810" />
-<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/824bc562-2781-4a0f-a393-1db8dc15e44c" />
 
-
+- Words
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/1b71d55a-0faa-4de7-9f17-63446cadbfaf" />
 
 #### Dark Mode
+- Hiragana
 <img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/ed389b88-1879-49e4-bd5f-d8a90b625e8e" />
-<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/b5c5978d-1b21-4c73-855e-b3a82ce4809e" />
-<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/08a6bbab-6bf8-4347-8f93-b663f1355499" />
 
+- Katakana
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/b5c5978d-1b21-4c73-855e-b3a82ce4809e" />
+
+- Words
+<img width="1916" height="908" alt="image" src="https://github.com/user-attachments/assets/7c5fcd67-f394-4bcc-9327-3a1a88f6a5f0" />
 
 ---
 
