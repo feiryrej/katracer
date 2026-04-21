@@ -138,6 +138,7 @@ function renderGallery() {
       cell.innerHTML = `
         <div class="gc-char" style="font-size:1.1rem">${word}</div>
         <img class="gc-img" src="${data}" alt="${word}" />
+        <button class="gc-retrace" onclick="navigate('page-trace'); setTimeout(()=>selectWordByKanji('${word}'),500)">✒ Retrace</button>
         <button class="gc-delete" onclick="deleteTracing('words','${word}', this)">✕</button>
       `;
       grid.appendChild(cell);

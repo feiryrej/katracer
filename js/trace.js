@@ -167,3 +167,16 @@ function showCurrentWord() {
   document.getElementById('ws-list').innerHTML = '';
   clearCanvas();
 }
+
+
+function selectWordByKanji(kanji) {
+  setTraceScript('words', document.querySelector('#page-trace .tab-btn[onclick*="words"]'));
+  const allWords = Object.values(JLPT_VOCAB).flat();
+  const word = allWords.find(w => w.k === kanji) || { k: kanji, r: '' };
+  selectedChar = { char: word.k, romaji: word.r, group: 'Word', words: [] };
+  document.getElementById('trace-display').textContent = word.k;
+  document.getElementById('trace-romaji').textContent  = word.r;
+  document.getElementById('trace-group').textContent   = 'Word';
+  document.getElementById('ws-list').innerHTML = '';
+  clearCanvas();
+}
