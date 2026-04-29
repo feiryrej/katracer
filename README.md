@@ -6,7 +6,7 @@
 Kana Handwriting Practice<br>
 Trace Hiragana, Katakana & JLPT Vocabulary, One Stroke at a Time
 
-[**Technical Paper »**](https://drive.google.com/file/d/1ZZjHseK-33aWOgnmCMuMUR4vonNSZxpk/view?usp=drive_link)
+[**Technical Paper »**](https://drive.google.com/file/d/1Anwx2RR6BT02yjD0q0IwQ8jtMLwRzRXK/view?usp=drive_link)
 
 [Report Bug](https://github.com/feiryrej/nani-level/issues)
 ·
